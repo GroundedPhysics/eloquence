@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+E:\Root\Code\Inter\aa\eloquence\eloquence_basic_ada\default.gpr
+20230208043010 d68ca3f7912fad2655570780f4b7a40b
+[BOUND OBJECT FILES]
+E:\Root\Code\Inter\aa\eloquence\eloquence_basic_ada\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LE:\Root\Code\Inter\aa\eloquence\eloquence_basic_ada\obj\
+-LE:\Root\Code\Inter\aa\eloquence\eloquence_basic_ada\obj\
+-LC:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/adalib/
+-static
+-static-libgcc
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/adalib/libgnat.a
+-Wl,--stack=0x2000000
